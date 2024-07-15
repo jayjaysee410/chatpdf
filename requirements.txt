@@ -5,3 +5,4 @@ streamlit==1.36.0
 chromadb
 protobuf==3.20.0
 pysqlite3-binary
+pypdf
