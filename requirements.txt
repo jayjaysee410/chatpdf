@@ -1,0 +1,5 @@
+langchain==0.2.7
+langchain_community==0.2.7
+ollama==0.2.1
+streamlit==1.36.0
+chromadb
